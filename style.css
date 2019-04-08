@@ -1,0 +1,42 @@
+#main {
+	width: 100%;
+	max-width: 960px;
+	background-color: gray;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.days {
+	width: 14%;
+}
+
+.lista {
+	list-style: none;
+	color: white;
+	display: inline-block;
+	width: 10%;
+}
+
+.listaDetails {
+	list-style: none;
+	color: white;
+	display: block;
+	width: 100%;
+}
+
+#form {
+	margin: 0 auto;
+	margin-top: 10px;
+	width: 480px;
+}
+
+#form button {
+	width: 100px;
+}
+
+.fas {
+	font-size: 30px;
+}
